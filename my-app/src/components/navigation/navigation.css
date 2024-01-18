@@ -1,0 +1,46 @@
+li {
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+a {
+    font-family: "Cambria";
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    margin: 10px;
+}
+a:hover {
+    color: #989598;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #262626;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    background-color: #ffffff;
+}
+
+ol {
+    list-style: none;
+    padding: 0;
+    margin: 15px;
+    display: flex;
+    justify-content: left;
+    font-size: 30px;
+}
+.image{
+    width: 20px;
+    height: 20px;
+
+}
+
+
